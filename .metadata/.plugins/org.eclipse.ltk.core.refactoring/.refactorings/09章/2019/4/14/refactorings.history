@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="型 &apos;exercise.Pass01&apos; を &apos;Pass09_01&apos; に名前変更します&#x0D;&#x0A;- 元のプロジェクト: &apos;09章&apos;&#x0D;&#x0A;- オリジナル要素: &apos;exercise.Pass01&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;exercise.Pass09_01&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新&#x0D;&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="型名 &apos;Pass01&apos; を変更します" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;exercise{Pass01.java[Pass01" matchStrategy="1" name="Pass09_01" qualified="false" references="true" similarDeclarations="false" stamp="1554197050549" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,17 @@
+package exercise;
+
+import lib.Input;
+
+public class Pass09_03 {
+
+	public static void main(String[] args) {
+		// ここにコードを挿入
+		int input;
+		do {
+			System.out.println(Math.random());
+			input = Input.getInt();
+		} while(input != 0);
+		System.out.println("０が入力されたため終了");
+	}
+
+}
